@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=mohit01-beep&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mohit01-beep/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 <!--
 **jdr86/jdr86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
