@@ -1,10 +1,21 @@
-### Hi there 👋
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=jdr86&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+### Hi there 👋, my name is **Junaid Elahi**
+#### I am a React Js developer and team lead at Alpha Squad
+![I am a React Js developer and team lead at Alpha Squad](https://www.indivaragroup.com/wp-content/uploads/2020/03/Front-end-developer.png)
 
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jdr86/jdr86?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"/>
+I develop and implement user interface components using React.js concepts and workflows such as Redux, Flux, and Webpack. I have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of progressive web applications. Ultimately, I am able to design and build modern user interface components to enhance application performance.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdr86&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS / ANGULAR
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdr86)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning The Best Ways to Teach Yourself to Code. 
+- 👯 I’m looking to collaborate on some fun stuff. 
+- 💬 Ask me about anything. 
+- 📫 How to reach me: +92311-2264486 
+- ⚡ Fun fact: The first person convicted of speeding was going eight mph. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdr86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jdr86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junaid-elahi-95a618187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/johny_baba_86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jdr86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11947455)  
+
+![GitHub metrics](https://metrics.lecoq.io/jdr86)  
+
+![Profile views](https://gpvc.arturio.dev/jdr86)
